@@ -2,6 +2,8 @@
 
 Reference project: https://www.youtube.com/watch?v=4oV65GVVits&t=6109s
 
+We are at minute 2:58:55
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
