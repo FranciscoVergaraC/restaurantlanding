@@ -9,8 +9,8 @@ const Header = () => (
     <div className='app__wrapper_info'>
       <SubHeading title='Chase the new flavour'/>
       <h1 className='app__header-h1'>The key to fine Dining</h1>
-      <p className='p__opensans' style={{margin: '2rem'}}>Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus </p>
-      <button className='custom__button'>Explore Menu</button>
+      <p className='p__opensans' style={{margin: '2rem'}}>One of New York City’s most vibrant event venues, Gericht Restaurant New York City, can host semi-private events in unique, design-driven spaces all capturing the distinctive energy and vibe of the world-famous Gericht Restaruant.</p>
+      <button className='custom__button' href="#menu">Explore Menu</button>
     </div>
 
     <div className='app__wrapper_img'>

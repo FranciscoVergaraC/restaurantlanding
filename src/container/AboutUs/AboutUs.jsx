@@ -14,7 +14,7 @@ const AboutUs = () => (
       <div className='app__aboutus-content_about'>
           <h1 className='headtext__cormorant'>About us</h1>
           <img src={images.spoon} alt='about spoon'/>
-          <p className='p__opensans'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+          <p className='p__opensans'>Since its creation in 2008, Gericht has been a precursor of a true concept of the Art of Living, with converging influences from the Pacific Rim movement.</p>
           <button type='button' className='custom__button'>Know more</button>
       </div>
 
@@ -25,7 +25,9 @@ const AboutUs = () => (
       <div className='app__aboutus-content_history'>
           <h1 className='headtext__cormorant'>Our history</h1>
           <img src={images.spoon} alt='about spoon'/>
-          <p className='p__opensans'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+          <p className='p__opensans'>Born from the visionary imagination of its founder Francisco Vergara, then owner in Chile of the famous LeJotua and in perpetual search for novelties through his numerous trips, notably to California, this restaurant-bar-lounge in the very chic Faubourg St Honoré, quickly became a “Must” of Santiago nights.
+
+</p>
           <button type='button' className='custom__button'>Know more</button>
       </div>
 
